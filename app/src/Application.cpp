@@ -83,7 +83,7 @@ void Application::run()
 	}
 
 	socket = std::make_shared<WebSocketClient>(
-		context, "localhost", "8080", "/", [this](std::string msg) { handleMessage(msg); });
+		context, "localhost", "9000", "/", [this](std::string msg) { handleMessage(msg); });
 
 	socket->run();
 

@@ -58,7 +58,7 @@ const handleError = (socket) => (error) => {
 };
 
 const server = new ws.WebSocketServer({
-	port: 8080,
+	port: 9000,
 });
 
 server.on('connection', handleConnection);

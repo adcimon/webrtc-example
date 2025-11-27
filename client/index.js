@@ -3,7 +3,7 @@ const main = async () => {
 	const remoteVideo = document.getElementById('remoteVideo');
 	const startButton = document.getElementById('startButton');
 
-	const socket = new WebSocket('ws://localhost:8080');
+	const socket = new WebSocket('ws://localhost:9000');
 	socket.addEventListener('error', console.error);
 
 	const configuration = {
