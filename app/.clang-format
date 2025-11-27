@@ -1,0 +1,15 @@
+AccessModifierOffset: -4
+AlignAfterOpenBracket: AlwaysBreak
+AllowAllParametersOfDeclarationOnNextLine: false
+AllowShortIfStatementsOnASingleLine: false
+BasedOnStyle: LLVM
+BinPackArguments: false
+BinPackParameters: false
+BreakBeforeBraces: Allman
+BreakFunctionDefinitionParameters: true
+ColumnLimit: 120
+IndentAccessModifiers: false
+IndentWidth: 4
+PointerAlignment: Left
+TabWidth: 4
+UseTab: Always

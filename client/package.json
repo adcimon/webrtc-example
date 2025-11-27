@@ -1,0 +1,11 @@
+{
+	"name": "client",
+	"version": "1.0.0",
+	"author": "adcimon",
+	"scripts": {
+		"start": "esbuild --bundle index.js --outfile=public/index.js --servedir=public"
+	},
+	"dependencies": {
+		"esbuild": "^0.17.18"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"name": "server",
+	"version": "1.0.0",
+	"author": "adcimon",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"ws": "^8.13.0"
+	}
+}
