@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 4.0.3)
-project(webrtc-example VERSION 1.0.0)
+project(webrtc-example-app VERSION 1.0.0)
 
 # --------------------
 # Compiler Options

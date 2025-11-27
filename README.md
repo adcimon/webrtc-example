@@ -36,7 +36,7 @@ Build app.
 cd app
 python ./scripts/build.py
 ```
-* Output: `./build/Release/webrtc-example.exe`
+* Output: `./build/Release/webrtc-example-app.exe`
 
 ## Run
 
@@ -56,5 +56,5 @@ npm start
 Run app.
 ```
 cd app
-./build/Release/webrtc-example.exe
+./build/Release/webrtc-example-app.exe
 ```
