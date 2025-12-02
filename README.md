@@ -34,6 +34,7 @@ python ./scripts/build_webrtc.py run --branch "branch-heads/7204"
 Build app.
 ```
 cd app
+vcpkg install
 python ./scripts/build.py
 ```
 * Output: `./build/Release/webrtc-example-app.exe`
