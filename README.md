@@ -5,7 +5,11 @@ WebRTC example demonstrating interaction between browser WebRTC and [libwebrtc](
 - `client`: Captures and sends video frames.
 - `app`: Receives, transforms and sends back video frames.
 
-Tested on:
+📦 Requirements:
+- [vcpkg](https://vcpkg.io/)
+- [Node.js](https://nodejs.org/)
+
+🧪 Tested on:
 - [ ] Linux
 - [ ] Mac
 - [x] Windows
