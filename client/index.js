@@ -1,4 +1,4 @@
-const main = async () => {
+async function main() {
 	const localVideo = document.getElementById('localVideo');
 	const remoteVideo = document.getElementById('remoteVideo');
 	const startButton = document.getElementById('startButton');
@@ -95,6 +95,6 @@ const main = async () => {
 		console.log('[OUT]', offer);
 		socket.send(JSON.stringify({ offer }));
 	});
-};
+}
 
 main();
