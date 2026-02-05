@@ -6,6 +6,7 @@ WebRTC example demonstrating interaction between browser WebRTC and [libwebrtc](
 - `app`: Receives, transforms and sends back video frames.
 
 📦 Requirements:
+- [CMake](https://cmake.org/)
 - [vcpkg](https://vcpkg.io/)
 - [Node.js](https://nodejs.org/)
 
