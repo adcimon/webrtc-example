@@ -10,7 +10,7 @@ WebRTC example demonstrating interaction between browser WebRTC and [libwebrtc](
 - [vcpkg](https://vcpkg.io/)
 - [Node.js](https://nodejs.org/)
 
-🧪 Tested on:
+🧪 Tested:
 - [ ] Linux
 - [ ] Mac
 - [x] Windows
