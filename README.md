@@ -9,6 +9,7 @@ WebRTC example demonstrating interaction between browser WebRTC and [libwebrtc](
 - [CMake](https://cmake.org/)
 - [vcpkg](https://vcpkg.io/)
 - [Node.js](https://nodejs.org/)
+- [Python](https://www.python.org/)
 
 🧪 Tested:
 - [ ] Linux
